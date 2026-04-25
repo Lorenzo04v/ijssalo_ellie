@@ -25,5 +25,3 @@ def print_aanbiedingen():
 
 decoreer("Aanbiedingen") 
 print_aanbiedingen() 
-
-
